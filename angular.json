@@ -63,7 +63,8 @@
               "browserTarget": "angular-joe-robot:build:production"
             },
             "development": {
-              "browserTarget": "angular-joe-robot:build:development"
+              "browserTarget": "angular-joe-robot:build:development",
+              "proxyConfig": "src/proxy.conf.json"
             }
           },
           "defaultConfiguration": "development"
