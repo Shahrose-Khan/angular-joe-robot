@@ -4,6 +4,7 @@ import { CartService } from '../cart/cart.service';
 import { ProductService } from './product.service';
 import { Router } from '@angular/router';
 
+
 @Component({
   selector: 'bot-catalog',
   templateUrl: './catalog.component.html',
